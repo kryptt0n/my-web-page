@@ -1,0 +1,15 @@
+h4 {
+    color: darkgray
+}
+
+li {
+    padding-right: 10px;
+}
+
+pre {
+    white-space: pre-line;
+}
+
+div {
+    float: left;
+}
